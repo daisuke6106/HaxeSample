@@ -1,0 +1,24 @@
+-cp ./src 
+-cp ./extern
+
+# Uncomment the desirable target
+# JavaScript target
+-js ./bin/HaxeSample.js
+
+# SWF 9 target
+# -swf9 bin/HaxeSample.swf
+
+# ActionScript3 target
+# -as3 bin
+
+# Neko target
+# -neko bin/HaxeSample.n
+
+# PHP target
+# -php bin
+
+# C++ target
+# -cpp bin
+
+# Uncomment and place your main class with package
+-main jp.co.dk.haxesample.Main
